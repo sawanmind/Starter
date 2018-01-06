@@ -1,0 +1,22 @@
+{
+  "name": "Starter",
+  "version": "0.1.0",
+  "summary": "A short description of Starter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sawanmind@gmail.com/Starter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sawanmind@gmail.com": "sawanmind@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sawanmind@gmail.com/Starter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Starter/Classes/**/*"
+}

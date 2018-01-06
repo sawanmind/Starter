@@ -1,0 +1,6 @@
+framework module Starter {
+  umbrella header "Starter-umbrella.h"
+
+  export *
+  module * { export * }
+}
